@@ -1,5 +1,5 @@
-cc=dotnet 
-project=NuvoMusic.Client 
+cc=dotnet
+project=NuvoMusic.Client
 
 run:
 	$(cc) run --project $(project) 
